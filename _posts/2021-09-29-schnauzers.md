@@ -17,7 +17,4 @@ There are three types: miniature, standard, and giant.
 > “Dogs are not our whole life, but they make our lives whole.”
 > – Roger Caras
 
-![](https://raw.githubusercontent.com/ba2005/ba2005.github.io/main/assets/schnauzer.jpg "a closeup image of a schnauzer sitting in a forest")
-
-
 Thanks for reading, you can read more about Schnauzers [here](https://www.akc.org/dog-breeds/standard-schnauzer/)!
