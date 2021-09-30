@@ -6,7 +6,7 @@ This repository is a test project that uses **_GitHub Pages_** and **_Jekyll_** 
 At present, the project contains:
 - A main homepage
 - A blog homepage
-  - Seperate pages for each blogpost
+  - Separate pages for each blogpost
 - An about page
 
 ## Learn more 
