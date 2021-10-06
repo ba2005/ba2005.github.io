@@ -43,10 +43,17 @@ a:hover {
 }
 
 ul.posts {
+    font-family: 'Georgia', 'Garamond', serif;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+ul.posts a {
+    background-size: 1rem;
+    margin-left: 5px;
 }
